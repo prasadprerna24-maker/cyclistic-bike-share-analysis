@@ -166,7 +166,6 @@ cyclistic-bike-share-analysis/
 │   ├── README.md
 │   └── full_year_data_clean_sample.csv
 │
-│
 ├── sql/
 │   └── analysis.sql
 │
