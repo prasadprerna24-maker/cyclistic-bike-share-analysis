@@ -97,7 +97,7 @@ The analysis included:
 
 All SQL queries used for the analysis are available in:
 
-```text
+```
 sql/analysis.sql
 ```
 
