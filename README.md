@@ -165,16 +165,15 @@ cyclistic-bike-share-analysis/
 ├── LICENSE
 │
 ├── data/
-│   ├── raw/
-│   └── cleaned/
+│   ├── README.md
+│   └── full_year_data_clean_sample.csv
 │
-├── excel/
 │
 ├── sql/
 │   └── analysis.sql
 │
 ├── tableau/
-│   └── cyclistic_dashboard.twbx
+│   └── README.md
 │
 └── images/
     ├── dashboard.png
