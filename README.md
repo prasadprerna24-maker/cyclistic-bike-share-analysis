@@ -117,7 +117,7 @@ The dashboard includes:
 
 **Tableau Public Dashboard**
 
-*Link will be added after publishing.*
+https://public.tableau.com/views/Cyclistic_Bike_Share_Analysis_17888743797290/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
