@@ -183,11 +183,11 @@ cyclistic-bike-share-analysis/
 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ### Story
 
-![Story](images/story.png)
+![Story](images/Story.png)
 
 ---
 
