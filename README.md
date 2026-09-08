@@ -115,9 +115,7 @@ The dashboard includes:
 - Average ride duration
 - Rider behavior comparisons
 
-**Tableau Public Dashboard**
-
-https://public.tableau.com/views/Cyclistic_Bike_Share_Analysis_17888743797290/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Tableau Public Dashboard**(https://public.tableau.com/views/Cyclistic_Bike_Share_Analysis_17888743797290/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
